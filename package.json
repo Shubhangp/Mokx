@@ -2,7 +2,7 @@
   "name": "mokx",
   "version": "1.0.0",
   "description": "This is React",
-  "main": "index.js",
+  "master": "app.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
